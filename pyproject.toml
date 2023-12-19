@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "fastapi-tutorial"
+version = "0.1.0"
+description = "This project is a sandbox to follow along with the FastAPI tutorials."
+authors = ["A042474 <philip.j.orlando@kp.org>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+fastapi = {extras = ["all"], version = "^0.105.0"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
