@@ -46,7 +46,7 @@ Feel free to fork this repository and submit pull requests. You can also open is
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md).
+This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgments
 
