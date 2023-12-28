@@ -20,8 +20,8 @@ This repository contains my project files and notes while I follow along with th
 1. Clone the repository:
 
    ```bash
-   git clone [your-repository-url]
-   cd [your-repository-name]
+   git clone https://github.com/philiporlando/fastapi-tutorial.git
+   cd fastapi-tutorial
    ```
 
 2. Install dependencies using Poetry:
@@ -35,7 +35,7 @@ This repository contains my project files and notes while I follow along with th
 To run an example FastAPI application:
 
 ```bash
-poetry run uvicorn examples.first_steps:app --reload
+poetry run uvicorn chapters.first_steps:app --reload
 ```
 
 This command will start the Uvicorn server with auto-reload enabled.
